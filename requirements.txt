@@ -1,7 +1,0 @@
-streamlit
-torch
-transformers
-bitsandbytes
-accelerate
-sentencepiece
-protobuf
